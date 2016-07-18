@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>B08</Machine>
+    <WindowsUser>ames</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ames</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>D6FA842A45FE6A664B40B8B588C4030B3D00B6A268882EB031045108BE6B8BE0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f_1.0.0.0_neutral__9v8a0bvea8mm8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f_9v8a0bvea8mm8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ames</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-07-18T22:54:12.743</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.exe">
+      <PackagePath>Calculator.exe</PackagePath>
+      <Modified>2016-07-18T22:54:12.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T10:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.xr.xml">
+      <PackagePath>Calculator.xr.xml</PackagePath>
+      <Modified>2016-07-18T22:54:12.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-07-18T22:54:12.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-07-18T22:54:12.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-07-18T22:54:12.524</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

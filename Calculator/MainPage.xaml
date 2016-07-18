@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Calculator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Calculator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBox x:Name="txtOutput" HorizontalAlignment="Center" Margin="115,55,91,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1160" Height="130" Background="{x:Null}" Foreground="#FFD1D1D1" SelectionHighlightColor="#FF175EB4" BorderBrush="#FF3284D6"/>
+        <Grid x:Name="grdButton" HorizontalAlignment="Left" Height="386" Margin="115,275,0,107" VerticalAlignment="Center" Width="466">
+            <Button x:Name="btnOne" Width="75" Height="50" ></Button>
+            <Button x:Name="btnTwo" Width="75" Height="50" ></Button>
+            <Button x:Name="btnThree" Width="75" Height="50" ></Button>
+            <Button x:Name="btnFour" Width="75" Height="50" ></Button>
+            <Button x:Name="btnFive" Width="75" Height="50" ></Button>
+            <Button x:Name="btnSix" Width="75" Height="50" ></Button>
+            <Button x:Name="btnSeven" Width="75" Height="50" ></Button>
+            <Button x:Name="btnEight" Width="75" Height="50" ></Button>
+            <Button x:Name="btnNine" Width="75" Height="50" ></Button>
+            <Button x:Name="btnZero" Width="75" Height="50" ></Button>
+            <Button x:Name="btnClearEntry" Width="75" Height="50" ></Button>
+            <Button x:Name="btnClearAll" Width="75" Height="50" ></Button>
+        </Grid>
+    </Grid>
+</Page>
