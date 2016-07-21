@@ -25,6 +25,82 @@ namespace Calculator
         public MainPage()
         {
             this.InitializeComponent();
+            txtOutput.Text = "";
+        }
+
+        // Variables are for calculations
+        public int firstvalue;
+        public int secondvalue;
+        public int thirdvalue;
+        public int finalanswer;
+
+        // boolean varibles for choosing function
+        public bool isAdded = false;
+        public bool isSubtracted = false;
+        public bool isMultiplied = false;
+        public bool isDivided = false;
+
+
+        private void btnOne_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "1";
+        }
+
+        private void btnTwo_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "2";
+        }
+
+        private void btnThree_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "3";
+        }
+
+        private void btnFour_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "4";
+        }
+
+        private void btnFive_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "5";
+        }
+
+        private void btnSix_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "6";
+        }
+
+        private void btnSeven_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "7";
+        }
+
+        private void btnEight_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "8";
+        }
+
+        private void btnNine_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "9";
+        }
+
+        private void btnZero_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text += "0";
+        }
+
+        private void btnClearEntry_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text = "";
+        }
+
+        private void btnClearAll_Click(object sender, RoutedEventArgs e)
+        {
+            txtOutput.Text = "";
+            firstvalue -= firstvalue;
+            secondvalue -= secondvalue;
         }
     }
 }

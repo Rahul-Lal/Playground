@@ -10,7 +10,7 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f</PackageIdentityName>
     <PackageIdentityPublisher>CN=ames</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,50 +25,50 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2016-07-18T22:54:12.743</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.exe">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.exe">
       <PackagePath>Calculator.exe</PackagePath>
-      <Modified>2016-07-18T22:54:12.317</Modified>
+      <Modified>2016-07-19T23:22:55.069</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T10:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T10:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T10:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T10:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.xr.xml">
       <PackagePath>Calculator.xr.xml</PackagePath>
-      <Modified>2016-07-18T22:54:12.010</Modified>
+      <Modified>2016-07-19T00:00:09.331</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2016-07-18T22:54:12.125</Modified>
+      <Modified>2016-07-19T00:00:40.683</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2016-07-18T22:54:12.125</Modified>
+      <Modified>2016-07-19T23:22:55.015</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2016-07-18T22:54:12.524</Modified>
     </AppxPackagedFile>

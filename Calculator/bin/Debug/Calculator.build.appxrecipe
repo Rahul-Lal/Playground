@@ -10,47 +10,47 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>2fcc35bf-d231-4e94-b8f1-a4bd2b3cf72f</PackageIdentityName>
     <PackageIdentityPublisher>CN=ames</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.exe">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.exe">
       <PackagePath>Calculator.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.xr.xml">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\Calculator.xr.xml">
       <PackagePath>Calculator.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ames\documents\visual studio 2015\Projects\Playground\Calculator\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\ames\Documents\Visual Studio 2015\Projects\Playground\Calculator\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
